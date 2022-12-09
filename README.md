@@ -1,16 +1,22 @@
-### Hi there 👋
+## Who am i ?
+    I’m Killian MOREAU alias @yugo01
 
-<!--
-**kymal95/kymal95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What language do i know ?
+    Python     GOOD
+    C#         OK
+    HTML/CSS   GOOD
+    JS         OK
+    C\C++      GOOD
+    Lua        OK
 
-Here are some ideas to get you started:
+## What can i do ?
+    Create mods
+    Plan and develop applications and services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 kymal952@gmail.com
+## 🌌 http://yugo01.github.io/
+
+<!---
+yugo01/yugo01 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
